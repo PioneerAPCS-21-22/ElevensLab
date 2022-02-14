@@ -1,5 +1,7 @@
 # Elevens Lab
 
+[Link to documentation](https://pioneerapcs-21-22.github.io/ElevensLab/index.html)
+
 The Elevens lab is the third and final AP Computer Science lab that we will complete.
 
 Major topics in this lab include use of `List`s, `ArrayList`s, and inheritance.
