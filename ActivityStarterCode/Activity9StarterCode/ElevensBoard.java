@@ -52,7 +52,6 @@ public class ElevensBoard extends Board {
 	 * @return true if the selected cards form a valid group for removal;
 	 *         false otherwise.
 	 */
-	@Override
 	public boolean isLegal(List<Integer> selectedCards) {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 9 *** */
 	}
@@ -65,7 +64,6 @@ public class ElevensBoard extends Board {
 	 * @return true if there is a legal play left on the board;
 	 *         false otherwise.
 	 */
-	@Override
 	public boolean anotherPlayIsPossible() {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 9 *** */
 	}
