@@ -1,6 +1,6 @@
 # Elevens Lab
 
-[Link to documentation](https://pioneerapcs-21-22.github.io/ElevensLab/index.html)
+[Link to documentation](https://pioneerapcs-21-22.github.io/ElevensLab/package-summary.html)
 
 The Elevens lab is the third and final AP Computer Science lab that we will complete.
 
